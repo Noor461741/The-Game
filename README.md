@@ -5,7 +5,6 @@ Balance of Elements is a **2D physics-based puzzle game** built using **Godot En
 ## 🎮 Gameplay  
 - Drag and drop items onto both sides of the scale to balance it.  
 - The first 4 levels require perfect balance, while later levels introduce target weights.  
-- Some levels feature 💣 bombs with countdowns and other surprises!  
 - Challenge your 🧠 intuition and 🏗️ logic as the puzzles become progressively harder.  
 
 ## 🛠️ Tech Stack  
@@ -32,10 +31,4 @@ This game started as a small experiment in ⚖️ physics-based puzzles, but evo
 Created with ❤️ passion and dedication, this is just the beginning.  
 
 — **Noor**  
- 
 
-Created with passion and dedication, this is just the beginning.  
-
-— **Noor**  
-
----
