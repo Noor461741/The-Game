@@ -21,7 +21,6 @@ The game challenges both your intuition and your logic skills.
 - 🎮 [Godot Engine 3.5](https://godotengine.org/)
 - 🎨 Pixel art made manually
 - 🔊 Sound effects from free resources (like Zapsplat)
-- 🧠 Custom level design and logic puzzles
 
 ---
 
